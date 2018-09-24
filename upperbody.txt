@@ -1,0 +1,1 @@
+"Push Ups", "Bicep Curls", "Tricep Dips", "Upright Standing Rows", "Shoulder Press", "Reverse Fly", "Kettlebell swings"
