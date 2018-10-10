@@ -1,1 +1,1 @@
-"Planks", "Side Plank", "Reverse Crunch", "Russian Twists", "V-ups", "Bicycle Crunches"
+"Planks", "Side Plank", "Reverse Crunch", "Russian Twists", "V-ups", "Bicycle Crunches""standing bicycles"
